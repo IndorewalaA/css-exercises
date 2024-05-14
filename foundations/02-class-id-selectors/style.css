@@ -1,0 +1,18 @@
+.odd {
+    background-color: rgb(212, 127, 144);
+    font-family: 'Verdana', 'DejaVu Sans', sans-serif;
+}
+
+#ele-two {
+    color: rgb(49, 63, 189);
+    font-size:36px;
+}
+
+.adj-font-size {
+    font-size:24px;
+}
+
+#ele-four {
+    background-color: rgb(97, 217, 78);
+    font-weight:bold;
+}
